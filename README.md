@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sjan1
-- 👀 I’m interested in mass spectrometry and data analysis involved. 
+- 👀 I’m interested in mass spectrometry, proteomics, and data analysis involved. 
 - 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on anyting that relates to the above mentined.
+- 💞️ I’m looking to collaborate on the above mentined.
 - 📫 How to reach me jan.sklenar@tsl.ac.uk
 
 <!---
